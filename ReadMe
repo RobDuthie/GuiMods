@@ -4,6 +4,8 @@ NOTE: Support for firmware prior to v3.10 has been dropped starting with GuiMods
 
 
 This package provides the following modifications to the VenusOS GUI:
+    A  "Relay button" colour change to make it easier to see what the change is
+
 	A "dark mode" for all overviews and menu pages
 		A toggle in the Display & Languages menu switches between light mode and dark mode
 		In addition, a touch area is available in the tool bar for the same switch.
