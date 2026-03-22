@@ -243,7 +243,7 @@ Tile {
             {
                 id: onButton
 ////// GuiMods - DarkMode
-				baseColor: !darkMode ? (onButtonActive ? "green" : "#e6ffe6") : (onButtonActive ? "green" : "#003000")
+				baseColor: !darkMode ? (onButtonActive ? "green" : "gray") : (onButtonActive ? "green" : "gray")
                 pressedColor: "#979797"
                 height: 40
                 width: parent.width - 6
@@ -259,7 +259,7 @@ Tile {
             {
                 id: offButton
 ////// GuiMods - DarkMode
-				baseColor: !darkMode ? (offButtonActive ? "black" : "#e6e6e6") : (offButtonActive ? "black" : "gray")
+				baseColor: !darkMode ? (offButtonActive ? "red" : "grey") : (offButtonActive ? "red" : "gray")
                 pressedColor: "#979797"
                 height: 40
                 width: parent.width - 6
