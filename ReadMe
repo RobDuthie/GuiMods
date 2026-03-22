@@ -86,6 +86,7 @@ This package provides the following modifications to the VenusOS GUI:
 			and replace "Waste" with "Gray" to be consistent with "Black" label for sewage tank
 
 	Adds a Relay Overview page that allows controlling all relays.
+	    Added relay button colour change to reflect safety for on and off indications
 		Previously, relay control is several menu levels deep so this is much faster
 		Status for all relays is also shown along with the function (manual, generator, pump, alarm)
 		Buttons presented for pump and generator affect the actual parameters for those devices,
